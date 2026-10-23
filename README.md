@@ -1,6 +1,6 @@
 # fqdnscan
 
-<img width="1243" height="898" alt="image" src="https://github.com/user-attachments/assets/75ce83dc-b524-4a98-84fc-3800e6c4b91a" />
+<img width="1243" height="898" alt="image" src="https://github.com/user-attachments/assets/deaafebc-46b0-48be-b515-9efce51a2381" />
 
 Script interactif qui part d'une liste de domaines, cherche des sous-domaines, résout les enregistrements DNS et peut sonder les sites HTTP. Les résultats sortent en CSV et en JSON.
 
